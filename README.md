@@ -1,4 +1,3 @@
----
 # 🎓 **Student Attendance App**
 
 This is a simple and clean Android app I built to make attendance tracking easier for teachers.
